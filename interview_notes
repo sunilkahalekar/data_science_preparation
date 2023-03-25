@@ -1,0 +1,113 @@
+
+
+1. Gradient Descent on Non-Convex Functions Why it Happens and Solutions? Link: https://www.youtube.com/watch?v=3-jeZvW7MNw
+
+Ans: hey everyone in a previous video I
+discussed can gradient descent be
+applied to non-convex function and the
+answer to which is uh yes but with some
+caveats and I discussed when applied to
+a convex function gradient descent is
+guaranteed to converge to the global
+minimum however for non-convex functions
+there may be multiple local Minima and
+saddle points which can make convergence
+to the global minimum difficult or Not
+Guaranteed now fundamentally uh why is
+some machine learning problems does not
+have a global Minima or why they have a
+non-convex curve on which regular
+gradient descent algorithm cannot be
+applied or the application is not
+guaranteed to produce a desert result
+now there are a few reasons for that
+number one non-linear relationships real
+world data often exhibit non-linear
+relationships between input features and
+output variables when we try to model
+these relationships using machine
+learning algorithms the loss function
+which measures the difference between
+the models predictions and the true
+output can become highly non-linear and
+non-convex this means that there may be
+multiple local Minima saddle points or
+flat regions in the Lost landscape
+number two reason is overfitting complex
+models with many parameters for example
+in a really deep neural network can fit
+the training data very very closely
+potentially capturing noise in the data
+this can result in a highly non-convex
+loss landscape with many local Minima
+corresponding to over fitted Solutions
+and regular gradient distance algorithm
+may get stuck in those local Minima
+leading to poor generalization
+performance on new data point three is
+regularization regularization technique
+like L1 or L2 regularization are used to
+penalize certain model parameters if
+they have large values this can help
+prevent overfitting and improve gen
+analyze generalization performance
+however regularization also make the
+optimization problem more non-convex as
+it adds additional terms to the loss
+function that may not be smooth or have
+easily computable gradients and now the
+next question is how to find global
+Minima in cases where gradient descent
+does not work because of the non-convex
+function so many non-confx problems can
+actually reach Global Minima albeit with
+some amounts of regularization for
+example the writing jar flow algorithm
+can solve phase retrieval a non-confx
+problem there are also gradient free
+optimization algorithm like the neldar
+Mead method or cmaes which which stands
+for covariance Matrix adaptation
+Evolution strategy which do not rely on
+gradients and can be used to optimize
+non-differentiable or non-con next
+function then there are Bayesian
+optimization this model builds a
+probabilistic model of the objective
+function using gaussian process or
+similar surrogate models it then
+iteratively chooses the next point to
+evaluate by balancing exploration
+searching in uncertain regions and
+exploitation that is searching around
+the best known solution this approach
+can more can be more sample efficient
+than other Global optimization methods
+and further solution random restarts
+which performs gradient descent with
+multiple random initial points this
+increases the probability of finding the
+global minimum by exploiting different
+regions of the search space then we have
+simulated annealing inspired by the
+annealing process in Metallurgy these
+algorithm starts with a high temperature
+that allows for larger random jumps in
+the the search space as the temperature
+decreases the jumps become smaller
+allowing algorithm to fine tune its
+search around potential Minima this
+method is most is more likely to escape
+local Minima than gradient descent and
+the next one we have in this kind of
+situation that is uh finding the global
+Minima for non-confx function we have a
+particle swarm optimization this is a
+population based optimization technique
+where each individual particle
+represents a potential solution
+particles move through the search space
+based on their own own and their
+neighbors best known positions
+eventually converging towards the global
+Minima
