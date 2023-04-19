@@ -1,178 +1,52 @@
-hello guys my name is krishnaik and
+Hello guys my name is Sunil Kahalekar and welcome to the machine Learning
 
-welcome to my YouTube channel so guys uh
+Community series. This series is for everyone out there who are interested to
 
-welcome to the machine Learning
+learn data science machine learning. The real world applications and how they
 
-Community series and this series is for
+can basically Implement a basic to intermediate projects.
 
-everyone out there who are interested to
 
-learn data science machine learning see
+We are going to understand about the entire universe of data science.
 
-the real world applications and how they
+If tomorrow you become a data scientist or you become a data analyst you specifically go and
 
-can basically Implement a basic to
+work in a data science projects. 
 
-intermediate projects and what I will do
+We really need to know understand what is artificial intelligence, data science, machine
 
-is that with respect to every lecture I
+learning and deep learning. How stats is basically getting used.
 
-specifically upload I'll try to add this
+ so everything
 
-kind of fun elements I'll try to ask
+One very important thing is that say most of the companies writer
 
-some questions to you so please make
+data science does multiple roles. He also works as a big data engineer sometimes
 
-sure that you write down in the comment
+he has to work as a machine learning engineer many more but if you go in very
 
-with respect to those answers so the
+big product based companies every roles every person like machine learning
 
-first question is that do you like this
+engineer has a separate roles and responsibility data scientists has a
 
-kind of fun elements that I'm trying to
+separate roles and responsibilities. So it is important to understand properly understand about the universe
 
-add in the video or you just want a
+of data science.
 
-serious video where I explain you about
+We are going to discuss about the basic differences between artificial intelligence, machine learning
 
-every equations and all so this will
+deep learning and data science. 
 
-actually keep you motivated at least
+Let's call this universe as AI  so this universe is basically called as AI.
 
-till half of the video right but please
+If I really want to understand the definition of AI it is basically to
 
-make sure that you complete the video
+create an application which can perform which can perform
 
-till the end now what we are going to
+its own task without any human intervention.
+This is the basic Definition of artificial intelligence.
 
-learn in this video in this video we are
-
-going to understand about the entire
-
-universe of data science if tomorrow you
-
-become a data scientist or you become a
-
-data analyst you specifically go and
-
-work in a data science projects there
-
-you'll be seeing many people out there
-
-but if I talk about the universe of data
-
-science we really need to know
-
-understand what is artificial
-
-intelligence data science machine
-
-learning deep learning how stats is
-
-basically getting used so everything
-
-I'll be covering in this specific video
-
-will try to understand about this
-
-let me tell you one very important thing
-
-is that say most of the companies writer
-
-data science does multiple roles he also
-
-works as a big data engineer sometimes
-
-he has to work as a machine learning
-
-engineer many more but if you go in very
-
-big product based companies every roles
-
-every person like machine learning
-
-engineer has a separate roles and
-
-responsibility data scientists has a
-
-separate roles and responsibilities so
-
-it is important to understand this video
-
-properly understand about the universe
-
-of data science and then we will go
-
-ahead and understand about the roles and
-
-responsibilities so let's go ahead and
-
-let's start this particular lecture
-
-please do make sure that you hit like
-
-subscribe my channel share with all your
-
-friends and let's continue the lessons
-
-in this video we are going to discuss
-
-about the basic differences between
-
-artificial intelligence machine learning
-
-deep learning and data science probably
-
-you have heard about these terms and
-
-many people still have a confusion what
-
-is the exact differences between them so
-
-in this video I'm going to cover the
-
-entire differences so that you will
-
-never have any kind of so let's begin
-
-the first thing is that let's consider
-
-the entire universe let's say there is a
-
-universe with respect to
-
-in this specific field and I really want
-
-to talk about this specific universe and
-
-let's call this universe as AI okay so
-
-this universe is basically called as air
-
-now if I really want to understand the
-
-definition of AR it is basically to
-
-create an application
-
-to create an application which can
-
-perform
-
-which can perform
-
-its own task
-
-its own task
-
-without any human intervention okay any
-
-human intervention
-
-so this is the basic Definition of
-
-artificial intelligence okay so the
+ okay so the
 
 specific thing which I have actually
 
