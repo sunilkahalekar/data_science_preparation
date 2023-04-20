@@ -1,50 +1,12 @@
-Hello guys my name is Sunil Kahalekar and welcome to the machine Learning
+Hello guys my name is Sunil Kahalekar and welcome to the machine Learning Community series. This series is for everyone out there who are interested to learn data science machine learning. The real world applications and how they can basically Implement a basic to intermediate projects.
 
-Community series. This series is for everyone out there who are interested to
+We are going to understand about the entire universe of data science. If tomorrow you become a data scientist or you become a data analyst you specifically go and
 
-learn data science machine learning. The real world applications and how they
+work in a data science projects.  We really need to know understand what is artificial intelligence, data science, machine learning and deep learning. How stats is basically getting used. One very important thing is that say most of the companies writer data science does multiple roles. He also works as a big data engineer sometimes he has to work as a machine learning engineer many more but if you go in very big product based companies every roles every person like machine learning
 
-can basically Implement a basic to intermediate projects.
+engineer has a separate roles and responsibility data scientists has a separate roles and responsibilities. So it is important to understand properly understand about the universe of data science. We are going to discuss about the basic differences between artificial intelligence, machine learning deep learning and data science. Let's call this universe as AI  so this universe is basically called as AI.
 
-
-We are going to understand about the entire universe of data science.
-
-If tomorrow you become a data scientist or you become a data analyst you specifically go and
-
-work in a data science projects. 
-
-We really need to know understand what is artificial intelligence, data science, machine
-
-learning and deep learning. How stats is basically getting used.
-
- so everything
-
-One very important thing is that say most of the companies writer
-
-data science does multiple roles. He also works as a big data engineer sometimes
-
-he has to work as a machine learning engineer many more but if you go in very
-
-big product based companies every roles every person like machine learning
-
-engineer has a separate roles and responsibility data scientists has a
-
-separate roles and responsibilities. So it is important to understand properly understand about the universe
-
-of data science.
-
-We are going to discuss about the basic differences between artificial intelligence, machine learning
-
-deep learning and data science. 
-
-Let's call this universe as AI  so this universe is basically called as AI.
-
-If I really want to understand the definition of AI it is basically to
-
-create an application which can perform which can perform
-
-its own task without any human intervention.
-This is the basic Definition of artificial intelligence.
+If I really want to understand the definition of AI it is basically to create an application which can perform which can perform its own task without any human intervention. This is the basic Definition of artificial intelligence.
 
  okay so the
 
