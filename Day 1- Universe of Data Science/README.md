@@ -8,89 +8,15 @@ engineer has a separate roles and responsibility data scientists has a separate 
 
 If I really want to understand the definition of AI it is basically to create an application which can perform which can perform its own task without any human intervention. This is the basic Definition of artificial intelligence.
 
- okay so the
+Some of the coolest example which basically use on to day-to-day basis. The first example that I would like to talk about Netflix recommendation system.
 
-specific thing which I have actually
+Suppose let's have seen some kind of action movies. Whenever you see some kind of action movies for a couple of time then after that you get a recommendation of action movies only. This is one specific example with respect to the recommendation. Scond example and again Netflix has an AI module which will specifically do
 
-written it Omega it is basically to
+this recommendation system and it does not require any human intervention. Next example self-driving car. In self-driving car also there is a specific AI module
 
-create an application which can perform
+which in turn will actually help the car to be driven by itself without any human intervention or also over there it will be able to detect the objects that is
 
-its own task without any human
-
-intervention so for this specific thing
-
-we call it as artificial intelligence
-
-application
-
-some of the coolest example which you
-
-basically use
-
-on to day-to-day basis right so the
-
-first example that I would like to talk
-
-about Netflix recommendation system
-
-now whenever I talk about Netflix
-
-recommendation system over here you will
-
-be seeing that you know suppose let's
-
-say you have seen some kind of action
-
-movies right now whenever you see some
-
-kind of action movies for a couple of
-
-time then after that you get a
-
-recommendation of action movies only
-
-so this is one specific example with
-
-respect to the recommendation one super
-
-very simple example whenever we see in
-
-this kind of situations
-
-the second example and again Netflix has
-
-an AI module which will specifically do
-
-this recommendation system and it does
-
-not require any human intervention
-
-coming to the next example
-
-self-driving car
-
-I hope many of you have actually seen
-
-this self-driving car so in self-driving
-
-car also there is a specific AI module
-
-which in turn will actually help the car
-
-to be driven by itself without any human
-
-intervention or also over there it will
-
-be able to detect the objects that is
-
-coming in front of them how it is
-
-possible it is basically an AI model is
-
-integrated in that specific car so these
-
-are some of the examples even in
+coming in front of them. How it is possible it is basically an AI model is integrated in that specific car so these are some of the examples even in
 
 amazon.in if you probably go and do some
 
